@@ -55,3 +55,9 @@ blockquote {
   padding-left: 15px;
   color: #333;
 }
+.front-image {
+  max-width: 220px;
+  height: auto;
+  display: block;
+  margin: 20px 0 25px 0;
+}
